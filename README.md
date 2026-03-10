@@ -1,2 +1,31 @@
-# sql-data-warehouse-grocery-sales
-This project demonstrates how to design and build a modern SQL Data Warehouse for grocery sales analytics using the Medallion Architecture (Bronze → Silver → Gold).  The goal is to transform raw operational grocery sales data into a clean analytical model that supports business intelligence, reporting, and data-driven decision-making.
+# Grocery Sales SQL Data Warehouse
+
+## Project Overview
+This project demonstrates how to design and build a modern SQL data warehouse using the Medallion Architecture (Bronze, Silver, Gold).
+
+The goal is to transform raw grocery sales data into a clean analytical model for business insights.
+
+## Architecture
+Bronze → Silver → Gold data pipeline
+
+## Technologies
+- SQL
+- Data Warehousing
+- Star Schema Modeling
+- ETL Pipeline Design
+
+## Data Pipeline
+1. Raw data loaded into Bronze schema
+2. Data cleaned and standardized in Silver schema
+3. Business-ready analytical model created in Gold schema
+
+## Data Model
+Star schema with fact_sales and dimension tables.
+
+## Analytics
+Example business questions:
+- Top selling products
+- Sales by country
+- Customer purchase behavior
+- Employee sales performance
+
