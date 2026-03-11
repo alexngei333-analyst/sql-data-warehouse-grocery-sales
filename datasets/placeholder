@@ -1,1 +1,4 @@
-
+Data Source: https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset?select=sales.csv
+Download all the seven files to your local computer
+create database 'GrocerySales' and schemas; bronze, silver, gold
+load the data from the local computer to the database bronze layer
