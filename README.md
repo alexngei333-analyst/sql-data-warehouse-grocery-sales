@@ -18,6 +18,11 @@ The goal is to transform raw grocery sales data into a clean analytical model fo
 ## Architecture
 Bronze → Silver → Gold data pipeline
 
+## Tools
+- SQL Server Data Tools (SSDT)
+- SQL Server Management Studio(SSMS)
+- Power BI
+
 ## Technologies
 - SQL
 - Data Warehousing
