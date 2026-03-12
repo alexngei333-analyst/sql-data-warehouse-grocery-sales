@@ -39,8 +39,7 @@ Star schema with fact_sales and dimension tables.
 
 ## Analytics
 Example business questions:
-- Top selling products
-- Sales by country
+- Sales by category
 - Customer purchase behavior
 - Employee sales performance
 
