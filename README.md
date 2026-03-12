@@ -13,7 +13,7 @@ The goal is to transform raw grocery sales data into a clean analytical model fo
 
 **Source:** https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset?select=sales.csv
 
-**Licence** CCO: Public Domain
+**Licence:** CCO: Public Domain
 
 ## Architecture
 Bronze → Silver → Gold data pipeline
