@@ -43,3 +43,5 @@ Example business questions:
 - Customer purchase behavior
 - Employee sales performance
 
+### Dashboard
+<img width="916" height="509" alt="dashboard" src="https://github.com/user-attachments/assets/3cc550fa-0769-4eb1-8099-b983b617afa1" />
