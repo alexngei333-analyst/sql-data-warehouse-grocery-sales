@@ -5,6 +5,12 @@ This project demonstrates how to design and build a modern SQL data warehouse us
 
 The goal is to transform raw grocery sales data into a clean analytical model for business insights.
 
+## Dataset Attribution
+**Dataset:** [Grocery Sales Database]
+**Creator:** [-]
+**Source:** [https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset?select=sales.csv]
+**Licence** [CCO: Public Domain]
+
 ## Architecture
 Bronze → Silver → Gold data pipeline
 
